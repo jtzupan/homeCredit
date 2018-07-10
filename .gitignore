@@ -2,3 +2,4 @@ data/
 .DS_Store
 .ipynb_checkpoints/
 tools/__pycache__/modelTools.cpython-36.pyc
+submissions/
